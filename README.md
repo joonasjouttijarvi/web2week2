@@ -66,4 +66,7 @@ User:
 - create admin manually to user collection: admin@metropolia.fi, password: 1234
 - Always empty your cats after tests, so that you dont have user_ids that are not in users collection
 
+# screenshots 
+![image](https://user-images.githubusercontent.com/74530357/137593073-3e3e3e3e-3e3e-3e3e-3e3e-3e3e3e3e3e3e.png)
+
 
