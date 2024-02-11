@@ -60,6 +60,6 @@ jobs:
         with:
           app-name: 'joonajouwebapp'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_1234 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3FB25AB951164FA3843F772BB2FE2C6C }}
           package: .
 
