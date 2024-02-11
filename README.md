@@ -67,6 +67,6 @@ User:
 - Always empty your cats after tests, so that you dont have user_ids that are not in users collection
 
 # screenshots 
-![image](https://user-images.githubusercontent.com/74530357/137593073-3e3e3e3e-3e3e-3e3e-3e3e-3e3e3e3e3e3e.png)
+![image](https://github.com/joonasjouttijarvi/web2week2/blob/main/Screenshot%202024-02-11%20at%2017.22.08.png?raw=true)
 
 
